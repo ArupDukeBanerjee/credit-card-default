@@ -6,4 +6,4 @@
     + Outlier detection
     + Feature Analysis - Correlation plot, Mutual Information, IV Analysis, distribution plots.
 + created some ML models for classification
-+ Shapely value for ML model local interpretetion and feature importance
++ Shapley value for ML model local interpretetion and feature importance
