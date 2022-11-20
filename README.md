@@ -1,5 +1,4 @@
 # Credit Card Default Prediction
-predicting defualt from UCI credit card data set.
 
 + The analysis was done on a public data set of credit card default.
 + I did some basic analysis and tried to draw some insights based on that.
